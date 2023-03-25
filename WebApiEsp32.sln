@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{11A8DD76-328B-46DF-9F39-F559912D0360}") = "PrimeirosPassosEsp32", "PrimeirosPassosEsp32\PrimeirosPassosEsp32.nfproj", "{799E52D0-D93E-40D7-8192-307B1633CA37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{799E52D0-D93E-40D7-8192-307B1633CA37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{799E52D0-D93E-40D7-8192-307B1633CA37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{799E52D0-D93E-40D7-8192-307B1633CA37}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{799E52D0-D93E-40D7-8192-307B1633CA37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{799E52D0-D93E-40D7-8192-307B1633CA37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{799E52D0-D93E-40D7-8192-307B1633CA37}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7E01B4D-4BF9-40E6-99C4-5FD21606079C}
+	EndGlobalSection
+EndGlobal
